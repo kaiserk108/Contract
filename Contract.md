@@ -9,8 +9,7 @@
   development work, a conference talk.
 * **‘You’** refers to the client or company on behalf of whom The Work is
   commissioned.
-* **‘I’** refers to me, Harry Roberts, working for You on behalf of CSS Wizardry
-  Ltd.
+* **‘I’** refers to me, Mukesh Kumar, working for You on behalf of Craft Digital Ltd.
 
 ## About this document
 
@@ -34,7 +33,7 @@ signing the document. Each project I undertake will have its own individual
 nuances and requirements, so I am able and willing to modify this document to
 suit the needs of each project.
 
-In summary, The Client is contracting CSS Wizardry Ltd. to complete
+In summary, The Client is contracting Craft Digital Ltd. to complete
 work outlined within this document and/or other documents in accordance with
 agreed briefs, specifications, costs and deadlines.
 
@@ -44,7 +43,7 @@ Now, let’s do great work together!
 
 ## Involved parties
 
-**Harry Roberts, ‘CSS Wizardry’, ‘I’:**
+**Mukesh Kumar, ‘Craft Digital’, ‘I’:**
 
 [Address]
 
@@ -85,14 +84,6 @@ licenses, and it is Your responsibility to ensure that any supplied materials
 Once the entire outstanding balance of the project has been paid, all relevant
 copyright of The Work that can be assigned to You shall be.
 
-There will likely be a few grey areas if The Work is a workshop or conference
-talk that You have paid for but not explicitly commissioned. For example: if I
-were to give a public talk at Your conference, I would like to retain copyright
-of the slides etc. so as to share them with the wider community; if I am
-commissioned to give a workshop specifically for/to Your business, You would
-retain the copyright. I like to think we can agree on the intricacies of these
-on a case-by-case basis.
-
 ## Disclosure
 
 I am more than happy to sign a Non-Disclosure Agreement (NDA) in order to work
@@ -127,12 +118,12 @@ priced separately to the scope of The Work.
 ## Payment
 
 Being a small and, currently, a fledgling business, cash flow is very important
-to CSS Wizardry. As such, it is asked that You meet the payment terms outlined
+to Craft Digital. As such, it is asked that You meet the payment terms outlined
 below.
 
 ### Deposit
 
-An upfront deposit of 50% is required before commencing with any agreed work.
+An upfront deposit of 30% is required before commencing with any agreed work.
 This deposit is non-refundable and will only be paid once a fixed scope has been
 set, and we are confident that we wish to work together to these agreed terms.
 No deposit shall be taken until You are completely happy with, and clear about,
@@ -141,9 +132,9 @@ soon as the deposit is received.
 
 ### Payment terms
 
-Once a project is deemed complete, an invoice shall be raised for the remaining
-50% of the project cost, along with any other incidental costs (see _Expenses_).
-The remaining balance shall be paid within 14 days of it being invoiced.
+The remainder balance (70%) will be split out evenly over the agreed timeline of the project (as detailed in the scope of The Work), to be paid in fortnightly instalments. These payments will need to be paid within 3 days of being invoiced. 
+Once a project is deemed complete, an invoice shall be raised for the remaining balance of the project cost, along with any other incidental costs (see _Expenses_).
+The final balance payment shall be paid within 7 days of it being invoiced.
 
 ### Late payment
 
@@ -167,7 +158,7 @@ and after The Work.
 The undersigned confirm that they have read, understood, and shall adhere to the
 terms laid out in this document:
 
-* **Harry Roberts:**
+* **Mukesh Kumar:**
 * **Date:**
 
 * **You:**
